@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lista_de_productos">Lista de productos</string>
+    <string name="login">LOGIN</string>
+    <string name="e_mail">E-mail</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="login_in">Login in</string>
+    <string name="escriba_el_primer_numero">Escriba el primer numero</string>
+    <string name="escriba_el_segundo_numero">Escriba el segundo numero</string>
+    <string name="sumar">Sumar</string>
+    <string name="operaciones">Operaciones</string>
+    <string name="next">Next</string>
+    <string name="restar">Operaciones</string>
+    <string name="resta">restar</string>
+</resources>
